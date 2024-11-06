@@ -29,7 +29,11 @@ header h1 {
     font-size: 2.5em;
     margin-bottom: 10px;
 }
-
+header .logo {
+    width: 120px; /* Adjust the size of your logo */
+    height: auto;
+    margin-bottom: 20px;
+}
 nav ul {
     list-style: none;
     padding: 0;
