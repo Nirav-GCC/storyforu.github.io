@@ -33,6 +33,7 @@ header .logo {
     width: 120px; /* Adjust the size of your logo */
     height: auto;
     margin-bottom: 20px;
+    position: absolute;
 }
 nav ul {
     list-style: none;
